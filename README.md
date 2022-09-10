@@ -1,1 +1,3 @@
 # mandalay
+#king
+#queen
